@@ -28,3 +28,8 @@ git push -u origin main
 
 This is the url of our Repository after making new Repository
 https://github.com/sonugupta25689/DotNetCoreApp.git
+
+Devops has so many features (Unit Testing,Integration) - Pipeline is Delegation model of Devops to notift to any 
+Repository to Achieve Callabck (CI).
+
+Now we need to check application supports CI or Not.
